@@ -1,0 +1,27 @@
+05-12-2023 09:47:17 - ERROR - 8.0.6 - 47,5 Mo/128 Mo - admin > cURL error 7: Failed to connect to www.thenewsletterplugin.com port 80: Connection refused (http_request_failed) - 
+07-12-2023 07:44:59 - ERROR - 8.0.6 - 41,5 Mo/128 Mo -  > TNP_Mailer_Message Object
+(
+    [to] => ojandirs@proton.me
+    [to_name] => 
+    [headers] => Array
+        (
+            [Precedence] => bulk
+            [X-Newsletter-Email-Id] => 1
+            [X-Auto-Response-Suppress] => OOF, AutoReply
+            [List-Unsubscribe] => <http://radiovb.atspace.eu/?na=uc&nk=2-11be0106d6&nek=1->
+            [List-Unsubscribe-Post] => List-Unsubscribe=One-Click
+        )
+
+    [user_id] => 2
+    [email_id] => 1
+    [error] => Empty body
+    [subject] => Welcome
+    [body] => 
+    [body_text] => 
+    [from] => guirec@flejou.fr
+    [from_name] => RVB - RadioVB
+)
+
+07-12-2023 07:44:59 - ERROR - 8.0.6 - 41,5 Mo/128 Mo -  > Message format (1) - 
+09-12-2023 09:20:30 - ERROR - 8.0.6 - 48,3 Mo/256 Mo - [cron] > cURL error 7: Failed to connect to www.thenewsletterplugin.com port 80: Connection refused (http_request_failed) - 
+12-12-2023 09:22:53 - ERROR - 8.0.6 - 47,4 Mo/128 Mo - admin > cURL error 7: Failed to connect to www.thenewsletterplugin.com port 80: Connection refused (http_request_failed) - 
